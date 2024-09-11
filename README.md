@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohan1010raj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -184,9 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohan1010raj/Leetcode/tree/master/0011-container-with-most-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
