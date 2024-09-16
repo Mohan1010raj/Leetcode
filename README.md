@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Mohan1010raj/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mohan1010raj/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mohan1010raj/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohan1010raj/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mohan1010raj/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
