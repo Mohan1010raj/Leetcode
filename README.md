@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Mohan1010raj/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3330-modify-the-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
