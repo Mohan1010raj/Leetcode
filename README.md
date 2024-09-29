@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
