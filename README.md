@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Mohan1010raj/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3330-modify-the-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0953-reverse-only-letters) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
 |  |
 | ------- |
