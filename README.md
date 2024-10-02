@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0777-toeplitz-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0822-unique-morse-code-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0898-transpose-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0953-reverse-only-letters) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
