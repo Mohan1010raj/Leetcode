@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohan1010raj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Mohan1010raj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0202-happy-number) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0777-toeplitz-matrix) |
