@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mohan1010raj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1013-fibonacci-number) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohan1010raj/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search Tree
 |  |
