@@ -366,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
