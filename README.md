@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohan1010raj/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mohan1010raj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Mohan1010raj/Leetcode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0275-h-index-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mohan1010raj/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Mohan1010raj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohan1010raj/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mohan1010raj/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mohan1010raj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mohan1010raj/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
