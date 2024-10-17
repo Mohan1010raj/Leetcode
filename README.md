@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mohan1010raj/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mohan1010raj/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0953-reverse-only-letters) |
 ## Divide and Conquer
 |  |
