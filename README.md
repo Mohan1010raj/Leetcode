@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Mohan1010raj/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohan1010raj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Mohan1010raj/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Mohan1010raj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0171-excel-sheet-column-number) |
