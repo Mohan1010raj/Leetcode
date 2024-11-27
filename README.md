@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohan1010raj/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mohan1010raj/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohan1010raj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohan1010raj/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mohan1010raj/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0263-ugly-number) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/0258-add-digits) |
 ## Brainteaser
 |  |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/1212-sequential-digits) |
 ## Counting Sort
 |  |
