@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Mohan1010raj/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mohan1010raj/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Mohan1010raj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mohan1010raj/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0507-perfect-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Mohan1010raj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
