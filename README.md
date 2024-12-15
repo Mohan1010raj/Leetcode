@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Mohan1010raj/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3336-water-bottles-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
