@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohan1010raj/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Mohan1010raj/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mohan1010raj/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mohan1010raj/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Enumeration
