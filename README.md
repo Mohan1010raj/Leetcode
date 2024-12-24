@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mohan1010raj/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Mohan1010raj/Leetcode/tree/master/0461-hamming-distance) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohan1010raj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mohan1010raj/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1086-divisor-game) |
