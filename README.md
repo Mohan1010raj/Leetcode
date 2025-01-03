@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Mohan1010raj/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohan1010raj/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2634-minimum-common-value) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohan1010raj/Leetcode/tree/master/0724-find-pivot-index) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohan1010raj/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Union Find
