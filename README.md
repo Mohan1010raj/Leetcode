@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mohan1010raj/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohan1010raj/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohan1010raj/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mohan1010raj/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohan1010raj/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mohan1010raj/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohan1010raj/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohan1010raj/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mohan1010raj/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mohan1010raj/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
 |  |
 | ------- |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
 |  |
 | ------- |
