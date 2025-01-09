@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Mohan1010raj/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1619-path-crossing](https://github.com/Mohan1010raj/Leetcode/tree/master/1619-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/Mohan1010raj/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Mohan1010raj/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Probability and Statistics
 |  |
