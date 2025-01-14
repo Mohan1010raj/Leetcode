@@ -15,13 +15,13 @@ class Solution {
         }
         
         ListNode p=head;
-        
         while(p!=null && p.next!=null){
             int x=p.val;
             p.val=p.next.val;
             p.next.val=x;
 
             p=p.next.next;
+            
         }
         
         return head;
