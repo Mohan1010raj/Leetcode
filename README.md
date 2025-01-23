@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mohan1010raj/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Mohan1010raj/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mohan1010raj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
