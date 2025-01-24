@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Mohan1010raj/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Mohan1010raj/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/Mohan1010raj/Leetcode/tree/master/1619-path-crossing) |
+| [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohan1010raj/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohan1010raj/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Memoization
 |  |
 | ------- |
