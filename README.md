@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohan1010raj/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohan1010raj/Leetcode/tree/master/0217-contains-duplicate) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohan1010raj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Mohan1010raj/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mohan1010raj/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohan1010raj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mohan1010raj/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Mohan1010raj/Leetcode/tree/master/0463-island-perimeter) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohan1010raj/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mohan1010raj/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Heap (Priority Queue)
