@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Mohan1010raj/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Mohan1010raj/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1970-sorting-the-sentence](https://github.com/Mohan1010raj/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Enumeration
 |  |
