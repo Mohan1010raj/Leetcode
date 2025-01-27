@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohan1010raj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mohan1010raj/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0822-unique-morse-code-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan1010raj/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mohan1010raj/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan1010raj/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Mohan1010raj/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Enumeration
