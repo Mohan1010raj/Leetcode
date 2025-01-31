@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Sorting
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Mohan1010raj/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohan1010raj/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
