@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mohan1010raj/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Mohan1010raj/Leetcode/tree/master/0169-majority-element) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Mohan1010raj/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohan1010raj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mohan1010raj/Leetcode/tree/master/0198-house-robber) |
