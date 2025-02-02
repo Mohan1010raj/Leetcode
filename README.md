@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Mohan1010raj/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mohan1010raj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohan1010raj/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Mohan1010raj/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2058-concatenation-of-array) |
