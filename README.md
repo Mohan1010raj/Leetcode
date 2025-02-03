@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan1010raj/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/Mohan1010raj/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0948-sort-an-array) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Mohan1010raj/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/Mohan1010raj/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohan1010raj/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
