@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Mohan1010raj/Leetcode/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Mohan1010raj/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0856-consecutive-numbers-sum) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mohan1010raj/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mohan1010raj/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mohan1010raj/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mohan1010raj/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Mohan1010raj/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Mohan1010raj/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
