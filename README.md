@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mohan1010raj/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Mohan1010raj/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mohan1010raj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Mohan1010raj/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Mohan1010raj/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Mohan1010raj/Leetcode/tree/master/0164-maximum-gap) |
