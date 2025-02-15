@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mohan1010raj/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mohan1010raj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohan1010raj/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Mohan1010raj/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Mohan1010raj/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Graph
 |  |
