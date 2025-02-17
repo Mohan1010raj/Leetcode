@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohan1010raj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohan1010raj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/Mohan1010raj/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mohan1010raj/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohan1010raj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
