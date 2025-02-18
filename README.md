@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mohan1010raj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Mohan1010raj/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mohan1010raj/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mohan1010raj/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Mohan1010raj/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
 | ------- |
