@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/Mohan1010raj/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/Mohan1010raj/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
