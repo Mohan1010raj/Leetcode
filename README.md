@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1020-longest-turbulent-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1036-rotting-oranges](https://github.com/Mohan1010raj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mohan1010raj/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mohan1010raj/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mohan1010raj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Mohan1010raj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
