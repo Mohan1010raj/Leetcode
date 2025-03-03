@@ -14,37 +14,17 @@
  * }
  */
 class Solution {
-    class Pair{
-        TreeNode node;
-        boolean flag;
-        Pair(TreeNode node,boolean flag){
-            this.node=node;
-            this.flag=flag;
-        }
-    }
+    
     public int sumOfLeftLeaves(TreeNode root) {
+        return dfs(root,false);
+    }
+    int dfs(TreeNode root,boolean flag){
         if(root==null) return 0;
 
-        Queue<Pair> q=new LinkedList<>();
-        q.add(new Pair(root,false));
-        int sum=0;
-
-        while(!q.isEmpty()){
-            TreeNode node1=q.peek().node;
-            boolean flag1=q.peek().flag;
-            q.remove();
-
-            if(flag1==true && node1.left==null && node1.right==null){
-                sum+=node1.val;
-            }
-
-            if(node1.left!=null){
-                q.add(new Pair(node1.left,true));
-            }
-            if(node1.right!=null){
-                q.add(new Pair(node1.right,false));
-            }
+        if(root.left==null && root.right==null){
+            return flag==true? root.val:0;
         }
+        int sum=dfs(root.left,true)+dfs(root.right,false);
         return sum;
     }
 }
