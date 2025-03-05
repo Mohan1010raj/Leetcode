@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Mohan1010raj/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mohan1010raj/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mohan1010raj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohan1010raj/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/Mohan1010raj/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Mohan1010raj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohan1010raj/Leetcode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1094,4 +1096,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Mohan1010raj/Leetcode/tree/master/0830-largest-triangle-area) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Mohan1010raj/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Mohan1010raj/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
