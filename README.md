@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mohan1010raj/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mohan1010raj/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2634-minimum-common-value) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohan1010raj/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohan1010raj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohan1010raj/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
