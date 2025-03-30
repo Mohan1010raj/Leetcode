@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Mohan1010raj/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mohan1010raj/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mohan1010raj/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mohan1010raj/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Geometry
 |  |
 | ------- |
