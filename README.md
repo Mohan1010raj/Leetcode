@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohan1010raj/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohan1010raj/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Mohan1010raj/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1013-fibonacci-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1276-closest-divisors](https://github.com/Mohan1010raj/Leetcode/tree/master/1276-closest-divisors) |
