@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Mohan1010raj/Leetcode/tree/master/1127-last-stone-weight) |
+| [1217-relative-sort-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohan1010raj/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1217-relative-sort-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Mohan1010raj/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1217-relative-sort-array) |
 ## Quickselect
 |  |
 | ------- |
