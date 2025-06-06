@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Stack
 |  |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Mohan1010raj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1040,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Mohan1010raj/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mohan1010raj/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1083,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mohan1010raj/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Mohan1010raj/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Mohan1010raj/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
