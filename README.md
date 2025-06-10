@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mohan1010raj/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohan1010raj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mohan1010raj/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Memoization
 |  |
 | ------- |
