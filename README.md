@@ -1223,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mohan1010raj/Leetcode/tree/master/0175-combine-two-tables) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mohan1010raj/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Monotonic Stack
 |  |
 | ------- |
