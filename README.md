@@ -1230,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Mohan1010raj/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mohan1010raj/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Mohan1010raj/Leetcode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0619-biggest-single-number) |
 | [1174-sales-analysis-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/1174-sales-analysis-iii) |
 ## Monotonic Stack
 |  |
