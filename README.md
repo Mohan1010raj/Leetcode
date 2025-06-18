@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/Mohan1010raj/Leetcode/tree/master/1289-day-of-the-week) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mohan1010raj/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
