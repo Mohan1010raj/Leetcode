@@ -36,7 +36,13 @@ class Solution {
             }
             val++;
         }
-        int[][] arr = list.stream().map(l -> l.stream().mapToInt(Integer::intValue).toArray()).toArray(int[][]::new);
+        
+        int arr[][]=new int[list.size()][2];
+        for(int k=0;k<list.size();k++){
+            arr[k][0]=list.get(k).get(0);
+            arr[k][1]=list.get(k).get(1);
+        }
+        
 
         return arr;
 
