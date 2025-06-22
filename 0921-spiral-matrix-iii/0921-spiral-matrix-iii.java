@@ -4,32 +4,32 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         list.add(Arrays.asList(i, j));
 
-        while (list.size() < (row * col)) {
-            if (val % 2 == 1) {
-                for (int l = 1; l <= val; l++) {
+        while (list.size()<(row*col)){
+            if(val%2==1){
+                for(int l=1;l<=val;l++) {
                     j++;
-                    if (i >= 0 && i < row && j >= 0 && j < col) {
-                        list.add(Arrays.asList(i, j));
+                    if(i>=0 && i<row && j>=0 && j<col) {
+                        list.add(Arrays.asList(i,j));
                     }
                 }
 
-                for (int l = 1; l <= val; l++) {
+                for(int l=1;l<=val;l++){
                     i++;
-                    if (i >= 0 && i < row && j >= 0 && j < col) {
-                        list.add(Arrays.asList(i, j));
+                    if(i>=0 && i<row && j>=0 && j<col) {
+                        list.add(Arrays.asList(i,j));
                     }
                 }
-            } else {
-                for (int l = 1; l <= val; l++) {
+            }else{
+                for(int l=1;l<=val;l++) {
                     j--;
-                    if (i >= 0 && i < row && j >= 0 && j < col) {
+                    if(i>=0 && i<row && j>=0 && j<col) {
                         list.add(Arrays.asList(i, j));
                     }
                 }
 
-                for (int l = 1; l <= val; l++) {
+                for(int l=1;l<=val;l++) {
                     i--;
-                    if (i >= 0 && i < row && j >= 0 && j < col) {
+                    if(i>=0 && i<row && j>=0 && j<col) {
                         list.add(Arrays.asList(i, j));
                     }
                 }
