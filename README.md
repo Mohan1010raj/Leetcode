@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mohan1010raj/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mohan1010raj/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mohan1010raj/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohan1010raj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0100-same-tree) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohan1010raj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Mohan1010raj/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Mohan1010raj/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohan1010raj/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mohan1010raj/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mohan1010raj/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mohan1010raj/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Mohan1010raj/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mohan1010raj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Mohan1010raj/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mohan1010raj/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Mohan1010raj/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mohan1010raj/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Mohan1010raj/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0494-target-sum) |
