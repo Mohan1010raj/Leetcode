@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1249-snapshot-array) |
 | [1306-minimum-absolute-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mohan1010raj/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Mohan1010raj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohan1010raj/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mohan1010raj/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Stack
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohan1010raj/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mohan1010raj/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohan1010raj/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohan1010raj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mohan1010raj/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
 | ------- |
