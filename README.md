@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohan1010raj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Mohan1010raj/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0507-perfect-number) |
+| [0539-minimum-time-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Mohan1010raj/Leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Mohan1010raj/Leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Mohan1010raj/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Mohan1010raj/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mohan1010raj/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0539-minimum-time-difference](https://github.com/Mohan1010raj/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohan1010raj/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
