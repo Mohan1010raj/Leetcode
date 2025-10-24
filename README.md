@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohan1010raj/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mohan1010raj/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohan1010raj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1212-sequential-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/1212-sequential-digits) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1311,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mohan1010raj/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mohan1010raj/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
