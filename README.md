@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohan1010raj/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mohan1010raj/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Mohan1010raj/Leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohan1010raj/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
