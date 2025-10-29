@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Mohan1010raj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohan1010raj/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
