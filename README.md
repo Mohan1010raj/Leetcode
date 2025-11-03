@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/Mohan1010raj/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mohan1010raj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Mohan1010raj/Leetcode/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1666-make-the-string-great](https://github.com/Mohan1010raj/Leetcode/tree/master/1666-make-the-string-great) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohan1010raj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohan1010raj/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Greedy
 |  |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mohan1010raj/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mohan1010raj/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
