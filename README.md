@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Greedy
 |  |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Mohan1010raj/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Prefix Sum
 |  |
 | ------- |
