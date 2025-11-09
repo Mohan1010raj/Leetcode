@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Mohan1010raj/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohan1010raj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -1144,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Mohan1010raj/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohan1010raj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Mohan1010raj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
