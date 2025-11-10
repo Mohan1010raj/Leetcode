@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohan1010raj/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mohan1010raj/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohan1010raj/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mohan1010raj/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohan1010raj/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohan1010raj/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1395,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Mohan1010raj/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
 |  |
 | ------- |
