@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohan1010raj/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2728-sum-in-a-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mohan1010raj/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mohan1010raj/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohan1010raj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mohan1010raj/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Mohan1010raj/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/Mohan1010raj/Leetcode/tree/master/2752-sum-multiples) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mohan1010raj/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mohan1010raj/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohan1010raj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mohan1010raj/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Mohan1010raj/Leetcode/tree/master/0258-add-digits) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mohan1010raj/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Brainteaser
 |  |
 | ------- |
