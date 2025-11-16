@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mohan1010raj/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Mohan1010raj/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mohan1010raj/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mohan1010raj/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohan1010raj/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Mohan1010raj/Leetcode/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mohan1010raj/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/Mohan1010raj/Leetcode/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mohan1010raj/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
