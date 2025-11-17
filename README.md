@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Mohan1010raj/Leetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mohan1010raj/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Mohan1010raj/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
