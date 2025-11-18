@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohan1010raj/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Mohan1010raj/Leetcode/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Mohan1010raj/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Mohan1010raj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mohan1010raj/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mohan1010raj/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
