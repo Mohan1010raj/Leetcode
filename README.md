@@ -1407,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0619-biggest-single-number) |
 | [1174-sales-analysis-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1338-queries-quality-and-percentage](https://github.com/Mohan1010raj/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Monotonic Stack
 |  |
 | ------- |
