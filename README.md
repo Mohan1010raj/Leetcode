@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohan1010raj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohan1010raj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mohan1010raj/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Mohan1010raj/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mohan1010raj/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mohan1010raj/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohan1010raj/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Mohan1010raj/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mohan1010raj/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mohan1010raj/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mohan1010raj/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Mohan1010raj/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohan1010raj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mohan1010raj/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohan1010raj/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2551-apply-operations-to-an-array) |
