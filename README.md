@@ -1416,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Mohan1010raj/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohan1010raj/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1877-find-followers-count](https://github.com/Mohan1010raj/Leetcode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Mohan1010raj/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Monotonic Stack
 |  |
 | ------- |
