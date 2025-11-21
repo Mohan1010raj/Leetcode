@@ -1,23 +1,21 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        Set<String> res=new HashSet<>();
+        int n=s.length();
+        int cnt=0;
 
-        Set<Character> left=new HashSet<>();
-        Map<Character,Integer> right=new HashMap<>();
-        for(char c:s.toCharArray()){
-            right.put(c,right.getOrDefault(c,0)+1);
-        }
-
-        for(char m:s.toCharArray()){
-            right.put(m,right.getOrDefault(m,0)-1);
-
-            for(char ch:left){
-                if(right.get(ch)>0){
-                    res.add(new String(new char[]{m,ch}));
+        for(char ch='a';ch<='z';ch++){
+            int first=s.indexOf(ch);
+            int last=s.lastIndexOf(ch);
+            if(first!=-1 && last-first>=2){
+                boolean f[]=new boolean[26];
+                for(int i=first+1;i<last;i++){
+                    f[s.charAt(i)-'a']=true;
+                }
+                for(boolean b:f){
+                    if(b) cnt++;
                 }
             }
-            left.add(m);
         }
-        return res.size();
+        return cnt;
     }
 }
