@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mohan1010raj/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Mohan1010raj/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-longest-turbulent-subarray](https://github.com/Mohan1010raj/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/Mohan1010raj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Mohan1010raj/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mohan1010raj/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
