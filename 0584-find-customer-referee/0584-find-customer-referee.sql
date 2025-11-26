@@ -1,3 +1,4 @@
 # Write your MySQL query statement below
-select c.name from Customer as c 
-where coalesce(c.referee_id,0)<> 2;
+select name
+from Customer
+where referee_id!=2 or isnull(referee_id);
