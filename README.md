@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Mohan1010raj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3330-modify-the-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mohan1010raj/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohan1010raj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohan1010raj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mohan1010raj/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mohan1010raj/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Mohan1010raj/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Mohan1010raj/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohan1010raj/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohan1010raj/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
