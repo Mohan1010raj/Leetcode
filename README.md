@@ -1430,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Mohan1010raj/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Mohan1010raj/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Mohan1010raj/Leetcode/tree/master/0626-exchange-seats) |
+| [1158-market-analysis-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1158-market-analysis-i) |
 | [1174-sales-analysis-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1258-article-views-i) |
