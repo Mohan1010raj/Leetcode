@@ -1435,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Mohan1010raj/Leetcode/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Mohan1010raj/Leetcode/tree/master/1338-queries-quality-and-percentage) |
+| [1484-group-sold-products-by-the-date](https://github.com/Mohan1010raj/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Mohan1010raj/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1877-find-followers-count](https://github.com/Mohan1010raj/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Mohan1010raj/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
