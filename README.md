@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohan1010raj/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mohan1010raj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mohan1010raj/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohan1010raj/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mohan1010raj/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mohan1010raj/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohan1010raj/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mohan1010raj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohan1010raj/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohan1010raj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohan1010raj/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -1173,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Mohan1010raj/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Mohan1010raj/Leetcode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mohan1010raj/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohan1010raj/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohan1010raj/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohan1010raj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohan1010raj/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
