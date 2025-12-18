@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Mohan1010raj/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Mohan1010raj/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohan1010raj/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0908-smallest-range-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0908-smallest-range-i) |
 | [0921-spiral-matrix-iii](https://github.com/Mohan1010raj/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Mohan1010raj/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Mohan1010raj/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohan1010raj/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Mohan1010raj/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [0908-smallest-range-i](https://github.com/Mohan1010raj/Leetcode/tree/master/0908-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Mohan1010raj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mohan1010raj/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Mohan1010raj/Leetcode/tree/master/1086-divisor-game) |
