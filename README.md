@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohan1010raj/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Mohan1010raj/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohan1010raj/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Mohan1010raj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Mohan1010raj/Leetcode/tree/master/0763-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mohan1010raj/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Mohan1010raj/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Mohan1010raj/Leetcode/tree/master/0861-flipping-an-image) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Mohan1010raj/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Mohan1010raj/Leetcode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/Mohan1010raj/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Mohan1010raj/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0812-rotate-string) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Mohan1010raj/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mohan1010raj/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Mohan1010raj/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/Mohan1010raj/Leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Mohan1010raj/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mohan1010raj/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
