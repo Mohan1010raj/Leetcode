@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mohan1010raj/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mohan1010raj/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Mohan1010raj/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Mohan1010raj/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mohan1010raj/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Mohan1010raj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Mohan1010raj/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
